@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cstdio": "cpp",
+			"system_error": "cpp",
+			"array": "cpp"
+		}
+	}
+}
