@@ -24,7 +24,10 @@ but obviously any wire can be used. Please note that this project contains ONLY 
 |Pulse Indicator| A small dot slowly flashes in the upper right of the display. This a quick visual cue that the Terminal has not frozen.|
 
 ## Images
-
+![alt text](https://github.com/Junkgineer/Wio-Status-Panel/blob/main/images/Terminal_Available.jpg "Terminal Main Screen")
+![alt text](https://github.com/Junkgineer/Wio-Status-Panel/blob/main/images/Terminal_Busy.jpg "Terminal Busy Screen")
+![alt text](https://github.com/Junkgineer/Wio-Status-Panel/blob/main/images/Terminal_NTP_Error.jpg "No Clock Screen")
+![alt text](https://github.com/Junkgineer/Wio-Status-Panel/blob/main/images/Terminal_Init.jpg "Terminal Init w/out Sensors")
 
 ## Issues
 As this is a hobby project, not all functions are complete and there are known issues that still need to be addressed. These include, but are not limited to:
